@@ -42,6 +42,9 @@ Here are some of the projects I've worked on (check out my repositories for more
 - [🏠 **Department_Requests_On_Travel_2**](https://github.com/HsnHmrc/Department_Requests_On_Travel_2)  
    - You'll find a comprehensive breakdown of SQL queries, their purposes, and visualizations created for insights using Power BI. Dive in to explore! 
    - Skills Used: PostgreSQL, Power BI , Excel, Statistical and Technical Analysis Skills
+- [🏨 **E-commerce_Data_Analysis_with_Excel**](https://github.com/HsnHmrc/E-commerce_Data_Analysis_with_Excel)   
+   - This project involves analyzing e-commerce data using Microsoft Excel to uncover meaningful insights and trends. The project includes: data cleaning and preparation, advanced formula usage, interactive dashboards for visualization, insights on customer behavior, sales trends, and performance metrics.
+   - Skills Used: Excel (Advanced Formulas: VLOOKUP, INDEX-MATCH, SUMIF, etc.)
 
 ---
 
