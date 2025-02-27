@@ -44,7 +44,7 @@ Here are some of the projects I've worked on (check out my repositories for more
    - Skills Used: PostgreSQL, Power BI , Excel, Statistical and Technical Analysis Skills
 - [🏨 **E-commerce_Data_Analysis_with_Excel**](https://github.com/HsnHmrc/E-commerce_Data_Analysis_with_Excel)   
    - This project involves analyzing e-commerce data using Microsoft Excel to uncover meaningful insights and trends. The project includes: data cleaning and preparation, advanced formula usage, interactive dashboards for visualization, insights on customer behavior, sales trends, and performance metrics.
-   - Skills Used: Excel (Advanced Formulas: VLOOKUP, INDEX-MATCH, SUMIF, etc.)
+   - Skills Used: Excel (Advanced Formulas: VLOOKUP, INDEX-MATCH, SUMIF, etc.), Statistical and Technical Analysis Skills
 
 ---
 
